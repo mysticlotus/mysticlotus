@@ -17,8 +17,8 @@ Don't call me sweetheart
 Just call me J" :)
 - 👀 I’m interested in C++ and OOP programming in the Internet Epoch. Embacadero RAD and cross platform Tools, Delphi.Visual Studio, Server-side Verification of Client         Behavior in Online Games. Multi-core/Thread software optimization. Sound Processing, Waves Music, Processing/creating  Sound effects. WWWWWAVVVVVVVVESSSSSSSS :) Employing Arational creativity in a  refinement of truth, beauty and transformation and  employing computing means in the same pursuit.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on games, apps programming,  ALL THE Directx COM interfaces, Clien/Server model of Multiplayer gaming especially utilising WAMP tools
-- 📫 How to reach me email?!?
+- 💞️ I’m looking to collaborate on games, apps programming,  using ALL THE Directx COM interfaces and versions of, Clien/Server model of Multiplayer gaming especially utilising WAMP tools
+- 📫 How to reach me email address email me email address innit! ?!?!
  
 <!---
 mysticlotus/mysticlotus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
