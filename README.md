@@ -9,6 +9,12 @@ You've seen my face but you've never heard my name
 Oh no, oh oh
 I said, "Don't call me sir
 Oh, just call me JJ ;)
+Don't call me lady
+Just call me JJ
+Don't call me mister
+Just call me JJ
+Don't call me sweetheart
+Just call me J" :)
 - 👀 I’m interested in C++ and OOP programming in the Internet Epoch. Embacadero RAD and cross platform Tools, Delphi.Visual Studio, Server-side Verification of Client         Behavior in Online Games.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on games, apps programming,  Directx COM interfaces, Clien/Server model of Multiplayer gaming especially utilising WAMP tools
